@@ -1,2 +1,2 @@
 alpine
-download.docker.com/linux/ubuntu/gpg 
+haroldli/alist-tvbox
