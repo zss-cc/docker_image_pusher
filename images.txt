@@ -1,3 +1,4 @@
 alpine
-tag 5:26.1.0-1~ubuntu.24.04~noble
-
+alist
+emby
+jellyfin
