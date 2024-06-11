@@ -1,4 +1,1 @@
-alpine
-alist
-emby
-jellyfin
+alpine:3.18.2
