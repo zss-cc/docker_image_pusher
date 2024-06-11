@@ -1,2 +1,2 @@
 alpine
-xhofe/alist:latest
+docker pull xiaoyaliu/alist:hostmode
