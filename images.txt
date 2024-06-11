@@ -1,2 +1,2 @@
 alpine
-alpine:3.18.2
+xhofe/alist:latest
