@@ -1,3 +1,2 @@
 qinglong
-whyour/qinglong:2.17.2
-
+whyour/qinglong:latest
