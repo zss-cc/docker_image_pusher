@@ -1,2 +1,3 @@
 qinglong
-docker pull whyour/qinglong:develop
+whyour/qinglong:2.17.6
+
